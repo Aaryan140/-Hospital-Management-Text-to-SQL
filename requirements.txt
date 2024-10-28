@@ -1,0 +1,7 @@
+streamlit
+google_generativeai
+python_dotenv
+pandas
+beautifulsoup4
+mysql-connector-python
+prettytable
